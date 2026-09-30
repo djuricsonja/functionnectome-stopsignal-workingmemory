@@ -1,0 +1,8 @@
+antspyx==0.6.3
+Functionnectome @ git+https://github.com/NotaCS/Functionnectome.git@c87036dc089c48e57de3a962e4d3c4caf876a9da
+h5py==3.16.0
+nibabel==5.4.2
+numpy==2.3.5
+pandas==3.0.5
+scipy==1.15.3
+templateflow==25.1.2
